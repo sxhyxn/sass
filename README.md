@@ -34,3 +34,6 @@ MEMO만이 살 길
   * 불러들일때는 @import '파일명', 이 때 파일명에 _ 는 포함시키지 않고 확장명도 포함시키지 않는다.
 
 SCSS는 _ 로 시작하는 파일은 컴파일하지 않는다.
+
+![image](https://github.com/sxhyxn/sass/assets/129706893/34203867-43cb-41aa-856a-26f4a3085dcb)
+
