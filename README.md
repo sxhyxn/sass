@@ -17,3 +17,12 @@ MEMO만이 살 길
 # scss 파일이 있는 폴더의 상위폴더에 생성
 ![image](https://github.com/sxhyxn/sass/assets/129706893/6adf5f1a-e786-4fea-8974-2e097e28d76e)
 
+# 주석처리방법-----------
+# // 주석처리방법은 css로 컴파일되지않는다
+# /**/ 주석처리방법은 css로 컴파일 되어 나타난다
+![image](https://github.com/sxhyxn/sass/assets/129706893/4b27d5c7-e926-44ba-8a56-37734abb01c1)
+
+# 변수 만들기 --> $로 시작(영문,숫자, - , _ )만 사용할 수 있음, 숫자로 시작 불가능
+![image](https://github.com/sxhyxn/sass/assets/129706893/f3d882f3-2356-4693-a448-140ee85eea93)
+
+![image](https://github.com/sxhyxn/sass/assets/129706893/724b920c-afdf-4569-965d-ac6052780f52)
