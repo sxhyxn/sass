@@ -10,3 +10,10 @@ MEMO만이 살 길
 
 # savePath :null 이면 scss파일과 같은 위치에 style.css가 생긴다
 ![image](https://github.com/sxhyxn/sass/assets/129706893/c4adf7ea-c329-4fa0-9c25-4ae755d49de4)
+
+# ~은 style.scss를 의미, /는 style.scss가 있는 폴더
+![image](https://github.com/sxhyxn/sass/assets/129706893/f8aedaa1-77f1-41b2-9a89-70c8ee962d9d)
+
+# scss 파일이 있는 폴더의 상위폴더에 생성
+![image](https://github.com/sxhyxn/sass/assets/129706893/6adf5f1a-e786-4fea-8974-2e097e28d76e)
+
