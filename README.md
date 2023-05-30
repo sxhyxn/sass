@@ -26,3 +26,11 @@ MEMO만이 살 길
 ![image](https://github.com/sxhyxn/sass/assets/129706893/f3d882f3-2356-4693-a448-140ee85eea93)
 
 ![image](https://github.com/sxhyxn/sass/assets/129706893/724b920c-afdf-4569-965d-ac6052780f52)
+
+# Partials(파샬)
+ -- 관련된것끼리 묶어서 분리 / 소스에 반복되는 부분들을 분리 분산시켜서 모듈화시키는 기능
+ 
+  * Partials(파샬)의 파일명은 _ 로 시작하며
+  * 불러들일때는 @import '파일명', 이 때 파일명에 _ 는 포함시키지 않고 확장명도 포함시키지 않는다.
+
+SCSS는 _ 로 시작하는 파일은 컴파일하지 않는다.
