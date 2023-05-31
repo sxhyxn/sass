@@ -37,3 +37,6 @@ SCSS는 _ 로 시작하는 파일은 컴파일하지 않는다.
 
 ![image](https://github.com/sxhyxn/sass/assets/129706893/34203867-43cb-41aa-856a-26f4a3085dcb)
 
+# @import
+# @use --> 변수 이름이 같을 때 에러발생, @use를 사용할 때는 앞에 파일명을 추가해서 파일명.변수명 해주기
+![image](https://github.com/sxhyxn/sass/assets/129706893/faf4d3a0-5b8a-48c1-884b-1d320ae9d119)
