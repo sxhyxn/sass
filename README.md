@@ -51,3 +51,5 @@ SCSS는 _ 로 시작하는 파일은 컴파일하지 않는다.
 # @forward는 파샬을 묶어줌 style.scss에서는 _ idex.scss를 호출하여 사용함
 ![image](https://github.com/sxhyxn/sass/assets/129706893/e57aeb8a-717c-46c0-87d5-e4eacbee0fe6)
 
+# * (와일드카드)를 붙이면 이름을 생략할 수 있음(단, 하나의 묶음만 있을 때 가능)
+![image](https://github.com/sxhyxn/sass/assets/129706893/07bf90b6-acc1-4041-b337-d7ea30abe143)
