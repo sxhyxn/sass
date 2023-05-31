@@ -44,7 +44,8 @@ SCSS는 _ 로 시작하는 파일은 컴파일하지 않는다.
 # @use --> 변수 이름이 같을 때 에러발생, @use를 사용할 때는 앞에 파일명을 추가해서 파일명.변수명 해주기
 ![image](https://github.com/sxhyxn/sass/assets/129706893/faf4d3a0-5b8a-48c1-884b-1d320ae9d119)
 ![image](https://github.com/sxhyxn/sass/assets/129706893/b8e09807-ffd5-4e30-8b75-3f4c7a23e242)
- * 별명만들어서 사용가능
+
+# as 뒤에 별명을 붙여서 사용 가능
 ![image](https://github.com/sxhyxn/sass/assets/129706893/cf6d33fe-1b46-4ded-a4ff-496692fd0752)
 
 
