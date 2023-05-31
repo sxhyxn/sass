@@ -48,5 +48,6 @@ SCSS는 _ 로 시작하는 파일은 컴파일하지 않는다.
 # as 뒤에 별명을 붙여서 사용 가능
 ![image](https://github.com/sxhyxn/sass/assets/129706893/cf6d33fe-1b46-4ded-a4ff-496692fd0752)
 
-
+# @forward는 파샬을 묶어줌 style.scss에서는 _ idex.scss를 호출하여 사용함
+![image](https://github.com/sxhyxn/sass/assets/129706893/e57aeb8a-717c-46c0-87d5-e4eacbee0fe6)
 
