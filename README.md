@@ -64,8 +64,10 @@ SCSS는 _ 로 시작하는 파일은 컴파일하지 않는다.
 
 # 함수
 ![image](https://github.com/sxhyxn/sass/assets/129706893/5b36b2a4-1b51-4812-9f66-4c7e24dc4e5d)
+![image](https://github.com/sxhyxn/sass/assets/129706893/4575fbbb-c006-417c-8161-bea50b75aff6)
 
-
+# extend
+![image](https://github.com/sxhyxn/sass/assets/129706893/43a72f38-ca10-4048-8f9e-2454277ecfc3)
 
 
 
