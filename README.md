@@ -59,3 +59,35 @@ SCSS는 _ 로 시작하는 파일은 컴파일하지 않는다.
 
 # 보간법 (안 쓰면 px이 숫자에 안붙고 띄어쓰기로 적용)
 ![image](https://github.com/sxhyxn/sass/assets/129706893/61eb2a8a-2723-474a-ac42-dcedb41262ff)
+
+# nesting(네스팅)--품다
+
+# 함수
+![image](https://github.com/sxhyxn/sass/assets/129706893/5b36b2a4-1b51-4812-9f66-4c7e24dc4e5d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
