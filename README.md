@@ -53,3 +53,9 @@ SCSS는 _ 로 시작하는 파일은 컴파일하지 않는다.
 
 # * (와일드카드)를 붙이면 이름을 생략할 수 있음(단, 하나의 묶음만 있을 때 가능)
 ![image](https://github.com/sxhyxn/sass/assets/129706893/07bf90b6-acc1-4041-b337-d7ea30abe143)
+
+# 전역변수와 지역변수
+![image](https://github.com/sxhyxn/sass/assets/129706893/74565b59-03f2-40e3-8ea2-ba3e7b21ebcb)
+
+# 보간법 (안 쓰면 px이 숫자에 안붙고 띄어쓰기로 적용)
+![image](https://github.com/sxhyxn/sass/assets/129706893/61eb2a8a-2723-474a-ac42-dcedb41262ff)
